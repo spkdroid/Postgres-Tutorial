@@ -298,3 +298,4 @@ Certainly! Configuring PostgreSQL for JDBC on Windows involves similar steps to 
 - Use the appropriate JDBC URL in your Java code based on your configuration.
 
 By following these steps, you should be able to configure PostgreSQL for JDBC on Windows. If you encounter any issues during installation, refer to the [PostgreSQL Documentation](https://www.postgresql.org/docs/) or the [PostgreSQL Windows Download Page](https://www.postgresql.org/download/windows/) for additional guidance.
+
